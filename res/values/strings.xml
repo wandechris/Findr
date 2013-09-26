@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Findr</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="add_a_place">Add a Place</string>
+    <string name="find_a_place">Find a Place</string>
+    <string name="bank_atm">Bank + ATM</string>
+    <string name="hotels">Hotels</string>
+    <string name="hospitals">Hospitals</string>
+    <string name="schools">Schools</string>
+    <string name="stores">Stores</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="choose_a_category">Choose a category</string>
+    <string name="enter_a_place_name">Enter a Place name</string>
+    <string name="address">Address</string>
+    <string name="place_name">Place Name</string>
+    <string name="image">Image</string>
+    <string name="place_list">Place List</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="share">Share</string>
+    <string name="get_direction">Get Direction</string>
+    <string name="show_on_map">Show on Map</string>
+
+</resources>
